@@ -1,5 +1,5 @@
-App = require '../lib/app'
-request = require 'supertest'
+require! App: '../lib/app'
+require! request: supertest
 app = null
 tweets = null
 _it = it

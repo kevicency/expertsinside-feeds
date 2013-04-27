@@ -1,4 +1,4 @@
-Tweets = require('../lib/tweets')
+require! Tweets: '../lib/tweets'
 
 _it = it
 

@@ -1,6 +1,5 @@
-_ = require \lodash
-NTwitter = require \ntwitter
-async = require \async
+require! _: lodash
+require! <[async ntwitter]>
 #require! \prelude-ls .map
 
 module.exports = class Tweets
@@ -20,7 +19,7 @@ module.exports = class Tweets
 
   (options = {}) ->
     options = _.merge(@@ApiKeys, options)
-    @client = new NTwitter(options)
+    @client = new ntwitter(options)
 
   userTimeline: (options = {}, callback = ->) ->
     screenName = @@ScreenNames[options.slug]

@@ -1,5 +1,5 @@
-express = require 'express'
-Tweets = require './tweets'
+require! express
+require! Tweets: './tweets'
 
 module.exports = (options = {}) ->
   app = express()
