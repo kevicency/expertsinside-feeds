@@ -8,6 +8,8 @@ for people working @ExpertsInside. The app is hosted on Azure under the URL
 
 The app is still under heavy development.
 
+[![Build Status](https://travis-ci.org/ExpertsInside/expertsinside-feeds.png)](https://travis-ci.org/ExpertsInside/expertsinside-feeds)
+
 Getting started
 ---------------
 
@@ -52,3 +54,15 @@ which restarts the local server on every filechange
 ```sh
 nodemon -e js,ls server.js
 ```
+
+References
+----------
+
+App is mostly written in [LiveScript](http://gkz.github.io/LiveScript/) using
+[async](https://github.com/caolan/async) to handle the callback madness, 
+[ntwitter](https://github.com/AvianFlu/ntwitter) for fetching tweets and
+[express](http://expressjs.com/) for running the app.
+
+Test are written with [Mocha](http://visionmedia.github.io/mocha/) using 
+[Chai](http://chaijs.com/) syntax and [Sinon](http://sinonjs.org/) spies.
+
