@@ -9,7 +9,7 @@ describe "app", ->
     app := App!
 
   describe 'GET /tweets/:slug', ->
-    Tweets = require '../lib/Tweets'
+    Tweets = require '../lib/tweets'
     slug = [slug for slug of Tweets.ScreenNames][0]
 
     _it 'returns 500 on error', (done) ->
