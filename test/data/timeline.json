@@ -1,0 +1,287 @@
+[
+  {
+    "created_at": "Sat Apr 27 11:04:50 +0000 2013",
+    "id": 328102432057999360,
+    "id_str": "328102432057999360",
+    "text": "The Christian Glessner Daily is out! http://t.co/BD5t73FRn7 ▸ Top stories today via @SharePTJasper",
+    "source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17468461,
+      "id_str": "17468461",
+      "name": "Christian Glessner",
+      "screen_name": "cglessner",
+      "location": "Germany",
+      "description": "SharePoint MVP, C#, PowerShell, .NET, Nintex, Social Media, MCT",
+      "url": "http://www.iLoveSharePoint.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.iLoveSharePoint.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1091,
+      "friends_count": 519,
+      "listed_count": 78,
+      "created_at": "Tue Nov 18 19:10:14 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": 3600,
+      "time_zone": "Berlin",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3291,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3206099781/898cde15c1925379ef4357027c904d40_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3206099781/898cde15c1925379ef4357027c904d40_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/BD5t73FRn7",
+          "expanded_url": "http://paper.li/Cglessner",
+          "display_url": "paper.li/Cglessner",
+          "indices": [
+            37,
+            59
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SharePTJasper",
+          "name": "Jasper Oosterveld",
+          "id": 259175859,
+          "id_str": "259175859",
+          "indices": [
+            84,
+            98
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Apr 27 09:39:13 +0000 2013",
+    "id": 328080884756541440,
+    "id_str": "328080884756541440",
+    "text": "Listening: Das Wirken des Heiligen Geistes im Leben Jesu http://t.co/AMQvTZQydM",
+    "source": "<a href=\"http://www.WindowsPhone.com/\" rel=\"nofollow\">Windows Phone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 158760999,
+      "id_str": "158760999",
+      "name": "Samuel Zürcher",
+      "screen_name": "sharepointszu",
+      "location": "iPhone: 47.478111,8.306019",
+      "description": "SharePoint MVP, MCITP, MCTS und MCT, Senior Consultant  Experts Inside GmbH http://www.expertsinside.com",
+      "url": "http://www.sharepointcommunity.ch",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.sharepointcommunity.ch",
+              "expanded_url": null,
+              "indices": [
+                0,
+                33
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 276,
+      "friends_count": 87,
+      "listed_count": 17,
+      "created_at": "Wed Jun 23 14:57:57 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": 3600,
+      "time_zone": "Bern",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 940,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3210952376/d7eb2aa05cf43d3a92257195ad894c03_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3210952376/d7eb2aa05cf43d3a92257195ad894c03_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/AMQvTZQydM",
+          "expanded_url": "http://www.facebook.com/pages/Freikirche-der-Siebenten-Tags-Adventisten/442819082474647",
+          "display_url": "facebook.com/pages/Freikirc…",
+          "indices": [
+            57,
+            79
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "de"
+  },
+  {
+    "created_at": "Fri Apr 26 14:03:12 +0000 2013",
+    "id": 327784934498517000,
+    "id_str": "327784934498516992",
+    "text": "New Nokia Lumia 920. Must try everything... WP8 SEAMS NOT SO BAD",
+    "source": "<a href=\"http://www.WindowsPhone.com/\" rel=\"nofollow\">Windows Phone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 158760999,
+      "id_str": "158760999",
+      "name": "Samuel Zürcher",
+      "screen_name": "sharepointszu",
+      "location": "iPhone: 47.478111,8.306019",
+      "description": "SharePoint MVP, MCITP, MCTS und MCT, Senior Consultant  Experts Inside GmbH http://www.expertsinside.com",
+      "url": "http://www.sharepointcommunity.ch",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.sharepointcommunity.ch",
+              "expanded_url": null,
+              "indices": [
+                0,
+                33
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 276,
+      "friends_count": 87,
+      "listed_count": 17,
+      "created_at": "Wed Jun 23 14:57:57 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": 3600,
+      "time_zone": "Bern",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 940,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3210952376/d7eb2aa05cf43d3a92257195ad894c03_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3210952376/d7eb2aa05cf43d3a92257195ad894c03_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
